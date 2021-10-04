@@ -1,6 +1,12 @@
 # responsive_travel_website
 Responsive Travel Website Design Using HTML CSS and JavaScript
 
+Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
+Contains animations when scrolling.
+Includes a dark and light mode.
+Developed first with the Mobile First methodology, then for desktop.
+Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
 
 ![Screenshot 2021-10-04 at 13 16 39](https://user-images.githubusercontent.com/88532016/135835713-5f34142a-906b-4e6a-bc00-f9c47ba10b62.png)
 ![Screenshot 2021-10-04 at 13 18 12](https://user-images.githubusercontent.com/88532016/135835836-011d4233-df75-41f3-993e-c66e7166742b.png)
